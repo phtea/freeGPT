@@ -1,5 +1,5 @@
-## fork of freeGPT that makes picture generations random
-🍴
+# fork of freeGPT that makes picture generations random
+# 🍴
 
 ## Example:
 
