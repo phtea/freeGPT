@@ -1,4 +1,5 @@
 ## fork of freeGPT that makes picture generations random
+🍴
 
 ## Example:
 
