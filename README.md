@@ -42,7 +42,3 @@ async def main():
 
 asyncio.run(main())
 ```
-
-## Star History Chart:
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Ruu3f/freeGPT&type=Date)](https://github.com/Ruu3f/freeGPT/stargazers)
